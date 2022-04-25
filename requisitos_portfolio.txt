@@ -1,0 +1,13 @@
+2 interfaces gráficas:
+- login
+- dashboard
+
+
+1 diagrama do banco de dados
+
+
+TELAS PARA DESENVOLVER:
+- Login (permitir o acesso ao sistema somente pessoas cadastradas)
+- Visualizar denuncias (Visualizar as denuncias e as devidas soluções)
+- Dashboard (Visualizar os dados em números)
+
